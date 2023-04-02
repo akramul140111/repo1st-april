@@ -1,0 +1,11 @@
+
+
+#git status >>forr seeing current status of git
+# git init >>initialize root folderi
+#git add >>add file to git
+#git commit >> Commit the folder wih message
+
+
+
+
+
